@@ -19,3 +19,4 @@ This project is a few goals:
     b. Build from scratch?
   
     c. Would this fall under the Genomics4RD umbrella?
+ 4. Set up jira-github integration
